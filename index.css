@@ -1,0 +1,190 @@
+*{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+ .navbarz{
+  
+  align-items: center;
+  padding: 0px 30px;
+ }
+.navbarz h2{
+  font-weight: 300;
+}
+.navbarz h3{
+  font-weight: 300;
+}
+.profile-container {
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.profile-img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.profile-buttons .btn {
+  margin: 10px;
+}
+.social-icons a {
+  margin: 0 10px;
+  color: #333;
+  font-size: 24px;
+}
+.profile-container {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  text-align: center;
+}
+
+.profile-img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.profile-buttons .btn {
+  margin: 10px;
+}
+
+.social-icons a {
+  margin: 0 10px;
+  color: #333;
+  font-size: 24px;
+}
+
+.secondimg img{
+  .profile-img {
+      width: 150px;
+      height: 150px;
+  }
+}
+  .profile-buttons .btn {
+      margin: 5px;
+      padding: 8px 20px;
+      font-size: 14px;
+  }
+
+  .social-icons a {
+      font-size: 20px;
+  }
+}
+.experience-container {
+  padding: 100px 0;
+}
+
+.experience-title {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.card {
+  border-radius: 15px;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.skill {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.skill-icon {
+  font-size: 20px;
+  color: #000;
+  margin-right: 10px;
+}
+
+ (max-width: 768px) {
+  .experience-container {
+      padding: 50px 20px;
+  }
+
+  .experience-title h2 {
+      font-size: 1.75rem;
+  }
+}
+.project-card {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 15px;
+  padding: 20px;
+  text-align: center;
+}
+.project-card img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 15px;
+}
+.project-card .btn {
+  margin-top: 15px;
+}
+.project-card img{
+  height: 200px;
+  width: 400px;
+  opacity: 50%;
+}
+.project-card img:hover{
+  opacity: 100%;
+}
+.contact-section {
+  margin-top: 50px;
+}
+
+.contact-info h5 {
+  margin-bottom: 15px;
+  color: #706e6d;
+}
+
+.contact-info p {
+  margin-bottom: 10px;
+}
+
+.contact-info i {
+  margin-right: 10px;
+  color: #979797;
+}
+
+.social-icons a {
+  margin-right: 10px;
+  color: #000;
+}
+
+.form-section h5 {
+  margin-bottom: 20px;
+  color: #6e6b6b;
+}
+
+.btn-submit {
+  background-color: #000000;
+  color: #010000;
+  border: none;
+}
+
+.btn-submit:hover {
+  background-color: #e63900;
+}
+.footer {
+  background: linear-gradient(90deg, #00C6FF 0%, #0072FF 100%);
+  color: white;
+  padding: 20px 0;
+  text-align: center;
+}
+.footer a {
+  color: white;
+  margin: 0 15px;
+  font-size: 24px;
+}
+.footer a:hover {
+  color: #ddd;
+}
+.footer .copyright {
+  margin-top: 10px;
+  font-size: 14px;
+}
+.contactz{
+  padding-bottom: 100px;
+}
